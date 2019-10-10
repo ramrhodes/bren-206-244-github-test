@@ -8,6 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Type your name (or anything else) HERE: 
+Hi this is Rachel! Making an edit
 
 Here's some code (change the variable names and values):
 ```{r}
